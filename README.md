@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yashwanthreddyk2199/Yashwanthreddyk2199](https://github.com/Yashwanthreddyk2199/Yashwanthreddyk2199)
 
-- 📄 Know about my experiences [https://github.com/Yashwanthreddyk2199/Resume](https://github.com/Yashwanthreddyk2199/Resume)
+<!-- - 📄 Know about my experiences [https://github.com/Yashwanthreddyk2199/Resume](https://github.com/Yashwanthreddyk2199/Resume)--> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
