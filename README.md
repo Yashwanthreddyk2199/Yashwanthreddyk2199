@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashwanth Reddy</h1>
 <h3 align="center">Actively seeking for full time opportunities</h3>
 
+- 👨‍💻Profile [https://yashwanth-k.netlify.app/](https://yashwanth-k.netlify.app/)
 - 👨‍💻 All of my projects are available at [https://github.com/Yashwanthreddyk2199/Yashwanthreddyk2199](https://github.com/Yashwanthreddyk2199/Yashwanthreddyk2199)
 
 <!-- - 📄 Know about my experiences [https://github.com/Yashwanthreddyk2199/Resume](https://github.com/Yashwanthreddyk2199/Resume)--> 
